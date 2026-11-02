@@ -1,0 +1,5 @@
+customers=20000 seed=42 input_files=2 input_rows=76181
+mode           seconds  dim_rows  accepted  digest
+full              4.84     70513     70530  5b65a25aa0756416
+incremental       4.42     70513     70530  5b65a25aa0756416
+dimension_identical_across_modes=True
